@@ -25,6 +25,3 @@ Zolaの概要、クイックスタート、Docs
 カスタマイズは必須。
 
 https://zola-bone.netlify.app/
-
-[MyBlog](https://zola-bone.netlify.app/)
-
